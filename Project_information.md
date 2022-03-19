@@ -1,4 +1,4 @@
-IMDB Top 250 TV Shows Data Web scraping - Python 
+**IMDB Top 250 TV Shows Data Web scraping - Python** 
 
 In this project i have scraped IMDB website Data, fetched TOP 250 TV shows data and saved it in .XLSX format.
 I have used following libraries listed below:
